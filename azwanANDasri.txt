@@ -8,7 +8,7 @@ We would like to inform you that our group members are Mohd Asri Bin Mohamad Sta
 1) Individual Paper
 
     * Mohd Asri - "P2P Computing"
-    * Azwan - "Service Oriented Architecture (SOA) - The Integration Among Electronic Government Applications"
+    * Azwan - "Enterprise Integration Application (EIA) - The Integration Among Electronic Government Applications"
 
 2) Group Project
 
